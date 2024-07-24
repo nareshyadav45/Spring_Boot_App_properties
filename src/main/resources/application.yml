@@ -1,0 +1,12 @@
+
+spring:
+  application:
+    name: SB_Rest_Api_Prop_Load
+    
+server:
+  port: 8081    
+    
+app:
+  messages:    
+    welcomeMessage: successflly load welcome message data from properties
+    greetMessage: successfully load greet message data from properties 
